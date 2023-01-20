@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # serverless-messenger
 =======
 # Vue 3 + Vite
